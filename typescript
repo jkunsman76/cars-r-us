@@ -1,0 +1,51 @@
+Script started on 2021-10-18 14:44:45-0500
+[1m[7m%[27m[1m[0m                                                                                                                                  ]2;jkuns76@Jakes-PC:~/workspace/cars-r-us]1;..ace/cars-r-us[0m[27m[24m[J[01;32m➜  [36mcars-r-us[00m [K[?1h=[?2004hscripts[?1l>[?2004l
+]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                                                                  ]2;jkuns76@Jakes-PC:~/workspace/cars-r-us/scripts]1;..-r-us/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [K[?1h=[?2004httouch main.js database.js[?1l>[?2004l
+]2;touch main.js database.js]1;touch[1m[7m%[27m[1m[0m                                                                                                                                  ]2;jkuns76@Jakes-PC:~/workspace/cars-r-us/scripts]1;..-r-us/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [K[?1h=[?2004hl[?1l>[?2004l
+]2;ls --color=tty -lah]1;ltotal 0
+drwxr-xr-x 1 jkuns76 jkuns76 512 Oct 18 14:45 [0m[01;34m.[0m
+drwxr-xr-x 1 jkuns76 jkuns76 512 Oct 18 14:44 [01;34m..[0m
+-rw-r--r-- 1 jkuns76 jkuns76   0 Oct 18 14:45 database.js
+-rw-r--r-- 1 jkuns76 jkuns76   0 Oct 18 14:45 main.js
+[1m[7m%[27m[1m[0m                                                                                                                                  ]2;jkuns76@Jakes-PC:~/workspace/cars-r-us/scripts]1;..-r-us/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [K[?1h=[?2004h...[?1l>[?2004l
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                                                  ]2;jkuns76@Jakes-PC:~/workspace/cars-r-us]1;..ace/cars-r-us[0m[27m[24m[J[01;32m➜  [36mcars-r-us[00m [K[?1h=[?2004h...[?1l>[?2004l
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                                                  ]2;jkuns76@Jakes-PC:~/workspace]1;~/workspace[0m[27m[24m[J[01;32m➜  [36mworkspace[00m [K[?1h=[?2004hl[?1l>[?2004l
+]2;ls --color=tty -lah]1;ltotal 0
+drwxr-xr-x 1 jkuns76 jkuns76 512 Oct 18 14:43 [0m[01;34m.[0m
+drwxr-xr-x 1 jkuns76 jkuns76 512 Oct 18 14:45 [01;34m..[0m
+drwxr-xr-x 1 jkuns76 jkuns76 512 Oct 14 11:18 [01;34mbook3-assessment-jkunsman76[0m
+drwxr-xr-x 1 jkuns76 jkuns76 512 Oct 14 10:57 [01;34mbrewed-awakenings[0m
+drwxr-xr-x 1 jkuns76 jkuns76 512 Oct 18 14:44 [01;34mcars-r-us[0m
+drwxr-xr-x 1 jkuns76 jkuns76 512 Sep 30 10:51 [01;34mcoffee_houses[0m
+drwxr-xr-x 1 jkuns76 jkuns76 512 Sep 30 10:58 [01;34mcongressional_rep[0m
+drwxr-xr-x 1 jkuns76 jkuns76 512 Oct 11 11:03 [01;34mcookbook[0m
+drwxr-xr-x 1 jkuns76 jkuns76 512 Oct 14 10:55 [01;34mdaily-notes[0m
+drwxr-xr-x 1 jkuns76 jkuns76 512 Oct 14 10:59 [01;34mdog-walking[0m
+drwxr-xr-x 1 jkuns76 jkuns76 512 Oct 11 11:44 [01;34mflowers[0m
+drwxr-xr-x 1 jkuns76 jkuns76 512 Oct 11 11:29 [01;34mfunctions[0m
+drwxr-xr-x 1 jkuns76 jkuns76 512 Sep 30 13:14 [01;34mjkunsman76[0m
+drwxr-xr-x 1 jkuns76 jkuns76 512 Oct 18 11:09 [01;34mkneel-diamonds[0m
+drwxr-xr-x 1 jkuns76 jkuns76 512 Oct  4 14:45 [01;34mmartins-aquarium[0m
+drwxr-xr-x 1 jkuns76 jkuns76 512 Oct 11 11:43 [01;34mshopping-list[0m
+drwxr-xr-x 1 jkuns76 jkuns76 512 Oct 11 11:33 [01;34mtoy-objects[0m
+drwxr-xr-x 1 jkuns76 jkuns76 512 Oct  1 15:52 [01;34mworst-site-ever-mario[0m
+[1m[7m%[27m[1m[0m                                                                                                                                  ]2;jkuns76@Jakes-PC:~/workspace]1;~/workspace[0m[27m[24m[J[01;32m➜  [36mworkspace[00m [K[?1h=[?2004hccars-r-us[1m/[0m[0m [?1l>[?2004l
+]2;cars-r-us]1;cars-r-us[1m[7m%[27m[1m[0m                                                                                                                                  ]2;jkuns76@Jakes-PC:~/workspace/cars-r-us]1;..ace/cars-r-us[0m[27m[24m[J[01;32m➜  [36mcars-r-us[00m [K[?1h=[?2004h[7mecho "# cars-r-us" >> README.md[27m
+[7mgit init[27m[K
+[7mgit add README.md[27m[K
+[7mgit commit -m "first commit"[27m[K
+[7mgit branch -M main[27m[K
+[7mgit remote add origin git@github.com:jkunsman76/cars-r-us.git[27m[K
+[7mgit push -u origin main[27m[K[6A[10D[27me[27mc[27mh[27mo[27m [27m"[27m#[27m [27mc[27ma[27mr[27ms[27m-[27mr[27m-[27mu[27ms[27m"[27m [27m>[27m>[27m [27mR[27mE[27mA[27mD[27mM[27mE[27m.[27mm[27md[1B[27mg[27mi[27mt[27m [27mi[27mn[27mi[27mt[1B[27mg[27mi[27mt[27m [27ma[27md[27md[27m [27mR[27mE[27mA[27mD[27mM[27mE[27m.[27mm[27md[1B[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27mm[27m [27m"[27mf[27mi[27mr[27ms[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m"[1B[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27m-[27mM[27m [27mm[27ma[27mi[27mn[1B[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mg[27mi[27mt[27m@[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m:[27mj[27mk[27mu[27mn[27ms[27mm[27ma[27mn[27m7[27m6[27m/[27mc[27ma[27mr[27ms[27m-[27mr[27m-[27mu[27ms[27m.[27mg[27mi[27mt[1B[27mg[27mi[27mt[27m [27mp[27mu[27ms[27mh[27m [27m-[27mu[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mm[27ma[27mi[27mn[?1l>[?2004l
+]2;echo "# cars-r-us" >> README.md; git init; git add README.md; git commit -m ;]1;echoInitialized empty Git repository in /home/jkuns76/workspace/cars-r-us/.git/
+[main (root-commit) a1ccefd] first commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+Enumerating objects: 3, done.
+Counting objects:  33% (1/3)Counting objects:  66% (2/3)Counting objects: 100% (3/3)Counting objects: 100% (3/3), done.
+Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 219 bytes | 219.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:jkunsman76/cars-r-us.git
+ * [new branch]      main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+[1m[7m%[27m[1m[0m                                                                                                                                  ]2;jkuns76@Ja
