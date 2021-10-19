@@ -1,8 +1,8 @@
-import { getTech } from './database'
+import { getTech } from './database.js'
 
 const technology = getTech()
 
-export const Technologies = () => {
+export const Technology = () => {
     let html = "<h2>Technologies</h2>"
 
     html += '<select id="tech">'

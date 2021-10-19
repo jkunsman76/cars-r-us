@@ -31,7 +31,7 @@ export const getPaint = () => {
 export const getInterior = () => {
     return database.interior.map(Interior => ({ ...Interior }))
 }
-export const getTechnology = () => {
+export const getTech = () => {
     return database.technology.map(Technology => ({ ...Technology }))
 }
 export const getWheels = () => {

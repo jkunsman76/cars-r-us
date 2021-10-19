@@ -1,4 +1,4 @@
-import { carsRUs } from "./carsRUs.js"
+import { carsRUs } from "./cars-r-us.js"
 
 const mainContainer = document.querySelector("#container")
 
